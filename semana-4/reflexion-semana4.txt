@@ -1,0 +1,10 @@
+La creación de herramientas tecnológicas propias por parte de las comunidades
+es fundamental para garantizar su autonomía y resolver problemas locales que el
+software comercial suele ignorar. Al utilizar tecnologías abiertas como Node.js,
+las iniciativas ciudadanas no dependen de costosas licencias ni de empresas
+privadas para gestionar sus datos. Esto democratiza la innovación, permitiendo
+que cualquier entorno desarrolle plataformas adaptadas a su realidad social.
+Además, el software libre fomenta un ecosistema de aprendizaje colectivo donde
+el conocimiento se comparte para el beneficio común. Así, la tecnología deja
+de ser un producto importado y se convierte en una herramienta de inclusión
+digital para transformar el territorio de forma directa y soberana.
