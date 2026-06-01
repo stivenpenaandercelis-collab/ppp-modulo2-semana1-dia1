@@ -1,0 +1,10 @@
+Las APIs representan un puente tecnológico fundamental para que las comunidades
+puedan centralizar y organizar su información de manera eficiente y segura. Al
+permitir que diferentes aplicaciones se comuniquen entre sí, una API facilita que
+los reportes, alertas o propuestas enviados por los ciudadanos desde sus teléfonos
+lleguen instantáneamente a una base de datos común. Esto elimina el desorden de
+los canales tradicionales y permite estructurar la información por categorías,
+prioridades o zonas geográficas. Además, al usar formatos estándar como JSON,
+los datos recolectados se pueden visualizar fácilmente en mapas comunitarios o
+tableros de control públicos. De esta forma, las APIs promueven la transparencia,
+mejoran los tiempos de respuesta vecinal y empoderan a las iniciativas locales.
